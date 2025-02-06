@@ -21,7 +21,7 @@ Data is publicly available here:
 Choudhary, V. (2021, May 1). Customer segmentation tutorial in Python [Kaggle dataset]. Kaggle. https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=downloadLinks to an external site.. Retrieved January 23, 2025.
 
 
-# Kaggle late scores submissions k-means clustering program
+# Kaggle late scores submissions k-means clustering program: Heart data 
 
 Kaggle. (n.d.). K-means clustering for heart disease analysis [Competition]. Kaggle. Retrieved January 28, 2025, from https://www.kaggle.com/competitions/k-means-clustering-for-heart-disease-analysis/
 
